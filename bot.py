@@ -78,6 +78,4 @@ async def leave(ctx):
         await ctx.send("El bot no está conectado a un canal de voz.")
 
 
-bot.run("MTI1MTkyODU5MjAwMzIzNTg4Mg.GzK5Xr.-0A9EyhmHwvHgv3zTiXxhEyiz6E8Y5-8hOy-wg")  
-
-
+bot.run("token") 
